@@ -1,2 +1,2 @@
-# otp-cipher
-one-time-pad cipher in javascript
+# vernam-cipher
+Vernam cipher in javascript
