@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/angeal185/vernam-cipher#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
